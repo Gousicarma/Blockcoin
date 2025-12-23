@@ -1,2 +1,2 @@
 # Blockcoin
-hey! here i have created a blockchain using javascript
+built a blockchain from scratch to understand the internals.
